@@ -1,0 +1,23 @@
+
+---
+
+### **3. 27_LogRhythmAnalyzer**  
+**Description:**  
+Parses logs and identifies repeated messages or bursts of similar entries over time.
+
+#### **README.md**
+```markdown
+# LogRhythmAnalyzer - Log Frequency & Pattern Detection
+
+LogRhythmAnalyzer reads logs and shows frequency breakdowns to help find persistent or abnormal behavior.
+
+## Features
+- Group by message repetition  
+- Keyword alerts  
+- Lightweight CLI parser  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_LogRhythmAnalyzer.git
+cd 27_LogRhythmAnalyzer
+python analyze.py logs/system.log
