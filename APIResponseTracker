@@ -1,0 +1,23 @@
+
+---
+
+### **2. 27_APIResponseTracker**  
+**Description:**  
+A tool to track response status and latency for a list of HTTP endpoints.
+
+#### **README.md**
+```markdown
+# APIResponseTracker - Uptime & Speed Monitor
+
+APIResponseTracker helps you quickly check if your APIs are online and how fast they respond.
+
+## Features
+- Logs latency + HTTP code  
+- Simple CLI layout  
+- Timeout and retry support  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_APIResponseTracker.git
+cd 27_APIResponseTracker
+python monitor.py
