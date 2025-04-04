@@ -1,0 +1,23 @@
+
+---
+
+### **4. 27_StreamLineGraph**  
+**Description:**  
+Displays incoming numerical data as a real-time scrolling line chart.
+
+#### **README.md**
+```markdown
+# StreamLineGraph - Live Data Visualizer
+
+StreamLineGraph is ideal for showing real-time metric streams in dashboards, demos, or analytics tools.
+
+## Features
+- Live updating chart  
+- Adjustable speed  
+- Clean design  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_StreamLineGraph.git
+cd 27_StreamLineGraph
+python visualize.py
